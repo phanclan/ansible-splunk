@@ -4,8 +4,8 @@ ansible-splunk-simple
 Simple Splunk deployment using Ansible, see [Splunk Blog Post](http://blogs.splunk.com/2014/07/12/deploying-splunk-securely-with-ansible-config-management-part-1/) for more information. 
 
 ## Features
-* built and maintain a complete splunk enviroment in minutes
-* adhere by all splunk best practices and OS hardening procedures
+* Build and maintain a complete splunk enviroment in minutes
+* Adhere to splunk best practices and OS hardening procedures
 * distro agnostic
 * runs splunk as splunk user
 * can manage your entire splunk installation from one place
